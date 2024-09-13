@@ -18,6 +18,12 @@ Computador e Raspberry Pi conectada via wi-fi ou usb rodando Python
 
 usa a biblioteca dronekit para se conectar a um drone via protocolo MAVLink e mover o drone para uma coordenada específica.
 
+
+![logoc++](https://github.com/user-attachments/assets/a312de35-94a2-4189-892a-66f871113bb5)
+
+com a API do PX4 obtém a posição do drone e implementa a lógica para mover até a coordenada específica.
+
+
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
