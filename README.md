@@ -24,7 +24,13 @@ usa a biblioteca dronekit para se conectar a um drone via protocolo MAVLink e mo
 com a API do PX4 obtém a posição do drone e implementa a lógica para mover até a coordenada específica.
 
 
+![logoJS](https://github.com/user-attachments/assets/f404193e-14c0-40d9-898a-9ee9c91f54a5)
+
+usa o Node.js para se conectar a um drone via TCP e enviar comandos de movimento para o drone.
+
+
+
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
+## Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
