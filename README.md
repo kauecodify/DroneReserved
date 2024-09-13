@@ -12,6 +12,12 @@ Drone com motores e sensores conectados ao Pixhawk
 
 Computador e Raspberry Pi conectada via wi-fi ou usb rodando Python
 
+# </...
+
+![logo](https://github.com/user-attachments/assets/ad302d80-d6f6-44ef-8cee-899dd9cbfecd)
+
+usa a biblioteca dronekit para se conectar a um drone via protocolo MAVLink e mover o drone para uma coordenada específica.
+
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
